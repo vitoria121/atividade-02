@@ -1,0 +1,28 @@
+/// QUESTAO 2 ///
+
+public class Post
+{
+    
+    public String texto;
+    public String link;
+    public int numeroCurtidas;
+    public int numeroCompartilhamentos;
+    
+    public void getTexto() {
+        return this.texto;
+        
+    }
+    
+    public String getLink() {
+        return this.link;
+    }
+    
+    public int getNumeroCurtidas() {
+        return this.numeroCurtidas;
+    }
+    
+    public int getnumeroCompartilhamentos() {
+        return this.numeroCompartilhamentos;
+    }
+    
+}
