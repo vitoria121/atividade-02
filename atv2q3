@@ -1,0 +1,24 @@
+/// QUESTAO 3 ///
+
+public class Aviao
+{
+    private int altitude;
+    private int veloc;
+    
+}
+
+public int getAltitude() {
+    return altitude;
+    
+}
+
+public void setAltitude(int altitude){
+    this.altitude = altitude;
+    
+}
+
+public int getVeloc(){
+    return veloc;
+    
+}
+
